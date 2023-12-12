@@ -1,6 +1,6 @@
 # Capputeeno
 
-Bem-vindo! Este respostitory contém a minha solução para o Rocketseat [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
+Bem-vindo! Este respostitory contém a minha solução para o desafio front-end da Rocketseat [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
 
 ![Prototype](./.github/prototype.png)
 
