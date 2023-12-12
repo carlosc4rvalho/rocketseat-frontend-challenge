@@ -1,12 +1,8 @@
 # Capputeeno
 
-Welcome! This respostitory contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
+Welcome! This respostitory contains my solution for Rocketseat [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
 
 ![Prototype](./.github/prototype.png)
-
-# 🧠 About
-
-The goal with this project is to help other who are searching for an opportunity as Frontend Developer, through the tutorial that i made on Youtube, i wish to help you to train your Frontend skills and learning new ways of solving technical challenges.
 
 ## 🖥️ Installation
 
