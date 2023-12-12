@@ -1,50 +1,50 @@
 # Capputeeno
 
-Welcome! This respostitory contains my solution for Rocketseat [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
+Bem-vindo! Este respostitory contém a minha solução para o Rocketseat [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
 
 ![Prototype](./.github/prototype.png)
 
-## 🖥️ Installation
+## 🖥️ Instalação
 
 ### Frontend
 
-1. Clone this repo
+1. Clone este repositório
 ```bash
 git clone https://github.com/Fernanda-Kipper/challenge-frontend.git
 ```
 
-2. Go to the project folder
+2. Vá para a pasta do projeto
 ```bash
 cd challenge-frontend
 cd capputeeno
 ```
 
-3. Install dependencies
+3. Instale as dependencias
 ```bash
 npm install
 ```
 
-3. Run Frontend
+3. Execute o Frontend
 ```bash
 npm run dev
 ```
 
-### Running the API
+### Executando a API
 
 
-2. Go to the API folder
+2. Vá para a pasta da API
 
 ```bash
 cd challenge-frontend
 cd api
 ```
 
-3. Install dependencies
+3. Instale as dependecias
 ```bash
 npm install
 ```
 
-3. Run start
+3. Inicie a Aplicação
 ```bash
 npm start
 ```
