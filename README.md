@@ -10,7 +10,7 @@ Bem-vindo! Este respostitory contém a minha solução para o Rocketseat [Fronte
 
 1. Clone este repositório
 ```bash
-git clone https://github.com/Fernanda-Kipper/challenge-frontend.git
+git clone https://github.com/carlosc4rvalho/rocketseat-frontend-challenge.git
 ```
 
 2. Vá para a pasta do projeto
